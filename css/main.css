@@ -21,8 +21,8 @@ body {
     cursor:pointer;
 }
 
-body.home {
-    background: url(/Imagenes/tipbusca.png) 10px 400px no-repeat,  url(/Imagenes/tippublica.png) 96% 200px no-repeat;
+.home {
+    background: url(http://wallpaperbeta.com/wallpaper_gray/gray_bubbles_groups_blue_orange_bokeh_abstract_hd-wallpaper-232365.jpg) 10px 400px no-repeat,  url(http://wallpaperbeta.com/wallpaper_gray/gray_bubbles_groups_blue_orange_bokeh_abstract_hd-wallpaper-232365.jpg) 96% 200px no-repeat;
 }
 
 
