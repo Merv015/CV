@@ -23,6 +23,16 @@ body {
 
 .home {
     background: url("http://www.yoanu.com/wp-content/uploads/2015/10/texture-gradient-wallpaper-gallery-x6xu2t71.jpg") no-repeat center center fixed;
+	h2 
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}	
+	
 }
 
 .img-home-portfolio,
