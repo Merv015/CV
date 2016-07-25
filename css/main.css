@@ -189,12 +189,15 @@ width:110px;
 	color:rgba(0, 0, 0, 0.4);
 }
 
-.socialmedia {
+
 html {
 	font-size: 10px;
 }
+
+.socialmedia {
 body {
 	text-align: center;
+}
 }
 
 /* Wrapper */
@@ -276,5 +279,4 @@ body {
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-google-plus {
 	color: white;
-}
 }
