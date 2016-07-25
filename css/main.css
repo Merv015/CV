@@ -102,6 +102,7 @@ body {
 /* Footer Styles */
 footer {
     margin: 15px 0;
+    background-color: #282828;
 }
 
 /* Responsive Styles */
@@ -198,22 +199,6 @@ width:110px;
 a {
   color: #fff;
   text-decoration: none;
-}
-.me {
-  width: 400px;
-  margin: 90px auto;
-}
-.me p,
-.me h1 {
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  text-align: center;
-}
-.me p {
-  font-weight: 200;
-}
-.me span {
-  font-weight: bold;
 }
 .social {
   position: fixed;
