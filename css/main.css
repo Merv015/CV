@@ -9,7 +9,7 @@ For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap
 /* Global Styles */
 
 html, body {
-    height: 110%;
+    height: 100%;
 }
 
 body {
@@ -24,6 +24,7 @@ body {
   background: url(http://www.kinowear.com/wp-content/uploads/2016/06/greybackground.jpg) no-repeat center center fixed; 
   background-size: cover;
   background-position: center;
+  
   
   
 	h2 
@@ -200,7 +201,7 @@ a {
   text-decoration: none;
 }
 .social {
-  position: fixed;
+  position: absolute;
   top: 50px;
 }
 .social ul {
