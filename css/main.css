@@ -194,14 +194,10 @@ html {
 	font-size: 10px;
 }
 
-.socialmedia {
-body {
-	text-align: center;
-}
-}
 
 /* Wrapper */
 .icon-button {
+	text-align: center;
 	background-color: white;
 	border-radius: 3.6rem;
 	cursor: pointer;
