@@ -22,6 +22,12 @@ body {
 }
 
 .home {
+  background: url(http://www.kinowear.com/wp-content/uploads/2016/06/greybackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
 	h2 
     left: 0;
     line-height: 200px;
