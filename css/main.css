@@ -102,7 +102,7 @@ body {
 footer {
     margin: 15px 0;
     background-color: #282828;
-    position: absolute;
+    position: fixed;
 }
 
 /* Responsive Styles */
